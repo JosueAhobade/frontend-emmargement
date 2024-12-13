@@ -1,7 +1,7 @@
 import Dashboard from '../components/Dashboard';
-import AddCourse from '..components/AddCourse';
-import AddStudent from '..components/AddStudent';
-import AddTeacher from '..components/AddTeacher';
+import AddCourse from '../components/AddCourse';
+import AddStudent from '../components/AddStudent';
+import AddTeacher from '../components/AddTeacher';
 import { createWebHistory,createRouter } from 'vue-router';
 
 const routes = [
